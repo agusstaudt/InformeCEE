@@ -63,7 +63,7 @@ body::before {
 }
 
 h1, h2 {
-  color: #0979b0;
+  color: #636363;
 }
 
 /* #toc-title {
@@ -81,7 +81,7 @@ h1, h2 {
 } */
 
 .highlight-box {
-  background-color: rgba(54, 117, 176, 0.984);
+  background-color: rgba(99, 99, 99, 0.984);
   border-left: 4px solid #8b8b8bc9;
   padding: 15px;
   margin: 20px 0;
@@ -135,11 +135,11 @@ h1, h2 {
 }
 
 a {
-  color: #0979b0 !important;
+  color: #000000 !important;
 }
 
 a:hover {
-  color: #000000 !important;
+  color: #636363 !important;
 }
 /* .sidebar ul>li>a.active, 
 .sidebar ul>li>ul>li>a.active {
